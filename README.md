@@ -4,3 +4,11 @@
 - **Project objective:** 
 
     **1.** Create a _https://github.com/Pratapkushwaha/Execel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf_ 
+
+ **2.** Conduct a comprehensive comparison between _https://github.com/Pratapkushwaha/Execel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf_
+
+ - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
