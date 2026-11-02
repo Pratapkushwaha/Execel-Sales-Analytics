@@ -12,3 +12,9 @@
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Pratapkushwaha/Execel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf_ 
